@@ -41,6 +41,10 @@ inputs:
     description: 'Ignore errors'
     required: false
     default: 'false'
+  ignore-codes:
+    description: 'Ignore codes'
+    required: false
+    default: 'false'
   include-experimental:
     description: 'Include experimental checks'
     required: false
